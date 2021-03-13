@@ -1,0 +1,30 @@
+{
+  "name": "petir",
+  "version": "1.0.0",
+  "description": "Petir is blogging platfrom using flat-file wrap in node.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igoen/petir.git"
+  },
+  "keywords": [
+    "node",
+    "vue",
+    "md",
+    "flat-file",
+    "ts",
+    "petir"
+  ],
+  "author": "Gunawan Probo Swandono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igoen/petir/issues"
+  },
+  "homepage": "https://github.com/igoen/petir#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
