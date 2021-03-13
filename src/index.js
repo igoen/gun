@@ -1,3 +1,6 @@
+"use strict";
+exports.__esModule = true;
+exports.Swandono = void 0;
 var Swandono = /** @class */ (function () {
     function Swandono() {
     }
@@ -6,3 +9,4 @@ var Swandono = /** @class */ (function () {
     };
     return Swandono;
 }());
+exports.Swandono = Swandono;
