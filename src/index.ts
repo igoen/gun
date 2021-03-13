@@ -1,1 +1,6 @@
-{\rtf1}
+class Swandono {
+    constructor() { }
+    hi() {
+        console.log('Hello World!')
+    }
+}
